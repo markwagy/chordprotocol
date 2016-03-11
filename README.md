@@ -1,16 +1,7 @@
-------------------------------------------------------
-* INFO
 
-Name:       Mark Wagy
-x500:       wagyx001
-Student ID: 3061917
+# Implementation of the Chord peer-to-peer computing protocol
 
-Class:      CSCI 5105: Intro to Distributed Systems
-Assignment: Programming Assignment 1
-
-Implementation of the Chord peer-to-peer computing protocol
-
-* BUILD
+## BUILD
 
 The build system used is Maven, so you need to have 
 Maven installed on your system
